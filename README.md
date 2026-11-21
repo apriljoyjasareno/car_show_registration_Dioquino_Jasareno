@@ -6,8 +6,8 @@ Final Exam Test Project – AutoVista Events, Car Show 2027 (Sorsogon City Colis
 
 | MEMBER | ROLE |
 |---|---|
-| <Shane Raven Dioquino> | Backend Developer |
-| <April Joy Jasareno> | Frontend Developer |
+| <Shane_Raven_Dioquino> | Backend Developer |
+| <April_Joy_Jasareno> | Frontend Developer |
 
 ## How to run
 
